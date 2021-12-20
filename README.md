@@ -14,5 +14,4 @@ mini coco dataset (16 images)
 
 (2) instances_train2017small.json
 
-  그냥 평범한 coco
-
+  그냥 평범한 ㅇㅇ
