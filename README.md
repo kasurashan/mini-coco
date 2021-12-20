@@ -2,7 +2,7 @@
 mini coco dataset (16 images)
 16장에 대한 annotation
 
-1) instances_train2017_keypoint.json
+(1) instances_train2017_keypoint.json
 
   여기서 말하는 keypoint는 
 
@@ -13,6 +13,8 @@ mini coco dataset (16 images)
   그 확률값을 가중치로 한 평균 좌표 (FCOS의 center point 대체를 위해 만든 것)
 
 
-2) instances_train2017small.json
+
+(2) instances_train2017small.json
+
   그냥 평범한 coco
 
